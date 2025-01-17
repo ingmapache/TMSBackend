@@ -7,6 +7,8 @@ C:\Users\demon\RiderProjects\TMSBackend\bin\Debug\net9.0\TMSBackend.runtimeconfi
 C:\Users\demon\RiderProjects\TMSBackend\bin\Debug\net9.0\TMSBackend.dll
 C:\Users\demon\RiderProjects\TMSBackend\bin\Debug\net9.0\TMSBackend.pdb
 C:\Users\demon\RiderProjects\TMSBackend\bin\Debug\net9.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\demon\RiderProjects\TMSBackend\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\demon\RiderProjects\TMSBackend\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Abstractions.dll
 C:\Users\demon\RiderProjects\TMSBackend\bin\Debug\net9.0\Microsoft.OpenApi.dll
 C:\Users\demon\RiderProjects\TMSBackend\obj\Debug\net9.0\TMSBackend.csproj.AssemblyReference.cache
 C:\Users\demon\RiderProjects\TMSBackend\obj\Debug\net9.0\TMSBackend.GeneratedMSBuildEditorConfig.editorconfig
@@ -15,6 +17,7 @@ C:\Users\demon\RiderProjects\TMSBackend\obj\Debug\net9.0\TMSBackend.AssemblyInfo
 C:\Users\demon\RiderProjects\TMSBackend\obj\Debug\net9.0\TMSBackend.csproj.CoreCompileInputs.cache
 C:\Users\demon\RiderProjects\TMSBackend\obj\Debug\net9.0\TMSBackend.MvcApplicationPartsAssemblyInfo.cs
 C:\Users\demon\RiderProjects\TMSBackend\obj\Debug\net9.0\TMSBackend.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\demon\RiderProjects\TMSBackend\obj\Debug\net9.0\TMSBackend.sourcelink.json
 C:\Users\demon\RiderProjects\TMSBackend\obj\Debug\net9.0\scopedcss\bundle\TMSBackend.styles.css
 C:\Users\demon\RiderProjects\TMSBackend\obj\Debug\net9.0\staticwebassets.build.json
 C:\Users\demon\RiderProjects\TMSBackend\obj\Debug\net9.0\staticwebassets.development.json
