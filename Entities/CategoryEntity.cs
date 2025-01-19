@@ -1,8 +1,9 @@
 ﻿using System.ComponentModel.DataAnnotations;
 namespace Entities;
 
-public class CategoryEntity
+public class Category
 {
+    [Key]
     public int Id { get; set; }
     
     [Required]
@@ -10,5 +11,5 @@ public class CategoryEntity
     public string? Name { get; set; }
     
     //Relation to Tasks
-    public List<TaskEntity>? Tasks { get; set; }
+    public List<UTask>? UTasks { get; set; }
 }

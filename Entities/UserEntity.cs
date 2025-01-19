@@ -2,7 +2,7 @@
 
 namespace Entities;
 
-    public class UserEntity
+    public class User
     {	
 		[Key]
         public int Id { get; set; }
@@ -27,6 +27,6 @@ namespace Entities;
         public string? Password { get; set; }
 
 		// Relation to tasks
-        public List<TaskEntity>? Tasks { get; set; }
+        public List<UTask>? UTasks { get; set; }
     }   
 

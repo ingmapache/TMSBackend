@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TMSBackend")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+37c4a44d6a6491069afe83cb3f0dfa1e68bada51")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9d927d8a2fd97589c23296b6ab80681937243eb0")]
 [assembly: System.Reflection.AssemblyProductAttribute("TMSBackend")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TMSBackend")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
